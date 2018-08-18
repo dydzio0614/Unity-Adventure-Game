@@ -1,0 +1,7 @@
+PLANNED THINGS ARE DONE
+
+optional:
+add console
+more bow animations
+make bow responsible for arrows to improve shooting code
+better camera (partially done - removed camera shaking)

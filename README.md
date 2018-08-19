@@ -1,7 +1,13 @@
 # Unity-Adventure-Game
 Part of my bachelor thesis "Gra taktyczno-przygodowa osadzona w klimacie średniowiecza" (Tactival adventure game set in a medieval themed world).
 
-Made in Unity, version 5.3.1, licensed under GPL v2 (check LICENSE file for details).
+Made in Unity, version 5.3.1, By choice, 3rd party source code assets were not used. 
+
+Licensed under GPL v2 (check LICENSE file for details). 
+
+Copyright (C) 2018 Dydzio
+
+Game information:
 
 Controls:
 - W/A/S/D / arrows - walk

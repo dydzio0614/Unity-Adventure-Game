@@ -7,7 +7,7 @@ Some screenshots of the game available at: https://imgur.com/a/C52wRYH
 
 Licensed under GPL v2 (check LICENSE file for details). 
 
-Copyright (C) 2018-2020 Dydzio
+Copyright (C) 2018-2021 Dydzio
 
 Game information:
 
